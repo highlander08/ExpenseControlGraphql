@@ -1,1 +1,1 @@
-# ExpenseControlGraphql
+# ExpenseControlGraphql Go
